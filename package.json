@@ -1,6 +1,6 @@
 {
   "name": "context-tex",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Syntax highlighting and others ConTeXt (a macropackage for TeX)",
   "main": "bindings/node",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Jethro Djan",
   "license": "MIT",
   "dependencies": {
+    "context-tex": "github:jethro-djan/tree-sitter-context",
     "nan": "^2.15.0"
   },
   "devDependencies": {
