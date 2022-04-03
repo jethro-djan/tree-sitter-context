@@ -1,0 +1,17 @@
+{
+  "name": "context-tex",
+  "version": "1.0.0",
+  "description": "Syntax highlighting and others ConTeXt (a macropackage for TeX)",
+  "main": "bindings/node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jethro Djan",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.15.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.6"
+  }
+}
