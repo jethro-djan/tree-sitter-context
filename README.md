@@ -1,6 +1,6 @@
 tree-sitter-context
 ==================
 
-ConTeXt grammar for [tree-sitter][].
+ConTeXt parser made with [tree-sitter][].
 
 [tree-sitter]: https://github.com/tree-sitter/tree-sitter
